@@ -28,17 +28,15 @@ For each problem, I include:
 ## 📂 Folder Structure
 
 LeetCode-Solutions-Cpp/
-│
 ├── Arrays/
-│ └── TwoSum.cpp
-│
+│   └── TwoSum.cpp
 ├── Strings/
-│ └── LongestSubstring.cpp
-│
+│   └── LongestSubstring.cpp
 ├── Trees/
-│
-└── DynamicProgramming/
-└── ClimbingStairs.cpp
+│   └── MaxDepth.cpp
+├── DynamicProgramming/
+│   └── ClimbingStairs.cpp
+└── README.md
 
 
 ---
