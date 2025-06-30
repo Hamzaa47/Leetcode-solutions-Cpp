@@ -28,3 +28,45 @@ Each solution includes:
 
 ## 📁 Folder Structure
 
+
+---
+
+
+---
+
+## 📊 Progress
+
+| 📂 Topic             | ✅ Problems Solved |
+|----------------------|--------------------|
+| Arrays               | 1                  |
+| Strings              | 3                  |
+| Total                | 4                  |
+
+_(Auto-updated as I add more problems)_  
+
+---
+
+## 🧾 Problem List
+
+| #    | Problem                                         | File Link                                                                                     | Difficulty | Tags                        |
+|------|--------------------------------------------------|-----------------------------------------------------------------------------------------------|------------|-----------------------------|
+| 3    | Longest Substring Without Repeating Characters  | [LongestSubstring.cpp](Strings/LongestSubstring.cpp)                                         | Medium     | Hash Table, String, Sliding Window |
+| 13   | Roman to Integer                                 | [RomanToInteger.cpp](Strings/RomanToInteger.cpp)                                             | Easy       | Hash Table, Math, String    |
+| 283  | Move Zeroes                                      | [MoveZeroes.cpp](Arrays/MoveZeroes.cpp)                                                      | Easy       | Array, Two Pointers         |
+| 3442 | Max Difference Between Even and Odd Frequency I  | [MaxDifferenceEvenOddFrequency.cpp](Strings/MaxDifferenceEvenOddFrequency.cpp)               | Easy       | Hash Table, String          |
+
+---
+
+## 🛠 Tech Stack
+
+- Language: C++  
+- IDE: VS Code / LeetCode Editor  
+- Version Control: Git & GitHub  
+
+---
+
+## 🙌 Let's Connect!
+
+If you find this helpful, feel free to ⭐ this repo.  
+Open to suggestions, collabs, or helping each other in interview prep!
+
