@@ -1,70 +1,30 @@
-# Leetcode-solutions-Cpp
-My documented C++ solutions to Leetcode Solutions
-# 🚀 LeetCode Solutions in C++ by Hamza
+# 📘 LeetCode-Solutions-Cpp
+
+### 🚀 Documented C++ Solutions to LeetCode Problems by **Hamza**
 
 Welcome to my personal LeetCode journey!  
-This repository contains my documented C++ solutions to selected problems on LeetCode, organized by topic for easy reference and learning.
+This repository contains my well-documented C++ solutions to selected problems on LeetCode, organized by topic for easy reference and learning.
 
 ---
 
-## 📈 Goals
+## 🎯 Goals
 
-- Strengthen data structures and algorithms skills 💪
-- Prepare for coding interviews 🧠
-- Build a helpful and searchable personal problem bank 🔍
+- Strengthen DSA concepts 💪  
+- Prepare for coding interviews 🧠  
+- Build a personal searchable problem bank 🔍
 
 ---
 
 ## 🧠 What You'll Find Here
 
-For each problem, I include:
-- 🔗 Problem link
-- 💡 Brief explanation of the approach
-- 🧮 Time and space complexity
-- 🧾 Well-commented C++ solution
+Each solution includes:
+- 🔗 Problem link  
+- 💡 Brief explanation of the approach  
+- 🧮 Time and space complexity  
+- 🧾 Clean & commented C++ solution  
+- 🏷️ Official LeetCode tags
 
 ---
 
-## 📂 Folder Structure
-
-LeetCode-Solutions-Cpp/
-├── Arrays/
-│   └── TwoSum.cpp
-├── Strings/
-│   └── LongestSubstring.cpp
-├── Trees/
-│   └── MaxDepth.cpp
-├── DynamicProgramming/
-│   └── ClimbingStairs.cpp
-└── README.md
-
-
----
-
-## 📊 Progress
-
-| Topic               | Problems Solved |
-|--------------------|-----------------|
-| Arrays             | ✅ 2            |
-| Strings            | ✅ 1            |
-| Trees              | ✅ 1            |
-| Dynamic Programming| ✅ 1            |
-| Total              | ✅ 5            |
-
-*(Will keep updating as I go.)*
-
----
-
-## 🛠 Tools
-
-- Language: C++
-- IDE: VS Code / LeetCode Editor
-- Git for version control
-
----
-
-## 🙌 Let's Connect
-
-If you find this helpful, feel free to ⭐️ this repo.  
-Suggestions, collabs, or interview prep? Hit me up!
+## 📁 Folder Structure
 
