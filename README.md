@@ -51,7 +51,7 @@ _(Auto-updated as I add more problems)_
 
 | #    | Problem                                         | File Link                                                                                     | Difficulty | Tags                        |
 |------|--------------------------------------------------|-----------------------------------------------------------------------------------------------|------------|-----------------------------|
-| 3    | Longest Substring Without Repeating Characters  | [LongestSubstring.cpp](Strings/3. LongestSubstringWithoutRepeatingCharacters.cpp)                                         | Medium     | Hash Table, String, Sliding Window |
+| 3    | Longest Substring Without Repeating Characters  | [LongestSubstring.cpp](Strings/3.LongestSubstringWithoutRepeatingCharacters.cpp)                                         | Medium     | Hash Table, String, Sliding Window |
 | 13   | Roman to Integer                                 | [RomanToInteger.cpp](Strings/RomanToInteger.cpp)                                             | Easy       | Hash Table, Math, String    |
 | 283  | Move Zeroes                                      | [MoveZeroes.cpp](Arrays/MoveZeroes.cpp)                                                      | Easy       | Array, Two Pointers         |
 | 3442 | Max Difference Between Even and Odd Frequency I  | [MaxDifferenceEvenOddFrequency.cpp](Strings/MaxDifferenceEvenOddFrequency.cpp)               | Easy       | Hash Table, String          |
