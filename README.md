@@ -9,9 +9,10 @@ This repository contains my well-documented C++ solutions to selected problems o
 
 ## 🎯 Goals
 
-- Strengthen DSA concepts 💪  
-- Prepare for coding interviews 🧠  
-- Build a personal searchable problem bank 🔍
+- Teach the solutions in an easy and beginner-friendly way
+- Strengthen DSA concepts 
+- Prepare for coding interviews  
+- Build a personal searchable problem bank
 
 ---
 
