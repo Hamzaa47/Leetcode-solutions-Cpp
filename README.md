@@ -60,7 +60,7 @@ _(Auto-updated as I add more problems)_
 | 182  | Duplicate Emails                                | [DuplicateEmails.sql](Database/182.DuplicateEmails.sql)                                      | Easy       | Database                    |
 | 183  | Customers Who Never Order                       | [CustomersWhoNeverOrder.sql](Database/183.CustomersWhoNeverOrder.sql)                        | Easy       | Database                    |
 | 196  | Delete Duplicate Emails                         | [DeleteDuplicateEmails.sql](Database/196.DeleteDuplicateEmails.sql)                          | Easy       | Database                    |
-| 283  | Move Zeroes                                     | [MoveZeroes.cpp](Arrays/MoveZeroes.cpp)                                                      | Easy       | Array, Two Pointers         |
+| 283  | Move Zeroes                                     | [MoveZeroes.cpp](Arrays/283.MoveZeroes.cpp)                                                  | Easy       | Array, Two Pointers         |
 | 577  | Employee Bonus                                  | [EmployeeBonus.sql](Database/577.EmployeeBonus.sql)                                          | Easy       | Database                    |
 | 3442 | Max Difference Between Even and Odd Frequency I | [MaxDifferenceEvenOddFrequency.cpp](Strings/3442.MaxDifferenceEvenOddFrequency.cpp)          | Easy       | Hash Table, String, Counting |
 
