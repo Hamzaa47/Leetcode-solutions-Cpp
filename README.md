@@ -34,14 +34,14 @@ Each solution includes:
 
 
 ---
-
 ## 📊 Progress
 
 | 📂 Topic             | ✅ Problems Solved |
 |----------------------|--------------------|
-| Arrays               | 1                  |
+| Arrays               | 5                  |
 | Strings              | 3                  |
-| Total                | 4                  |
+| Database             | 6                  |
+| Total                | 14                 |
 
 _(Auto-updated as I add more problems)_  
 
