@@ -54,9 +54,11 @@ _(Auto-updated as I add more problems)_
 | 1    | Two Sum                                         | [TwoSum.cpp](Arrays/1.TwoSum.cpp)                                                             | Easy       | Array, Hash Table           |
 | 3    | Longest Substring Without Repeating Characters  | [LongestSubstring.cpp](Strings/3.LongestSubstringWithoutRepeatingCharacters.cpp)             | Medium     | Hash Table, String, Sliding Window |
 | 11   | Container With Most Water                       | [ContainerWithMostWater.cpp](Arrays/11.ContainerWithMostWater.cpp)                           | Medium     | Arrays, Two Pointers, Greedy |
-| 13   | Roman to Integer                                | [RomanToInteger.cpp](Strings/13.RomanToInteger.cpp)                                             | Easy       | Hash Table, Math, String    |
+| 13   | Roman to Integer                                | [RomanToInteger.cpp](Strings/RomanToInteger.cpp)                                             | Easy       | Hash Table, Math, String    |
+| 196  | Delete Duplicate Emails                         | [DeleteDuplicateEmails.sql](Database/196.DuplicateEmails.sql)                          | Easy       | Database                    |
 | 283  | Move Zeroes                                     | [MoveZeroes.cpp](Arrays/MoveZeroes.cpp)                                                      | Easy       | Array, Two Pointers         |
 | 3442 | Max Difference Between Even and Odd Frequency I | [MaxDifferenceEvenOddFrequency.cpp](Strings/MaxDifferenceEvenOddFrequency.cpp)               | Easy       | Hash Table, String          |
+
 
 ---
 
