@@ -54,10 +54,9 @@ _(Auto-updated as I add more problems)_
 | 13   | Roman to Integer                                 | [RomanToInteger.cpp](Strings/13.RomanToInteger.cpp)                                           | Easy       | Hash Table, Math, String          |
 | 108  | Convert Sorted Array to Binary Search Tree       | [ConvertSortedArrayToBST.cpp](Trees/108.ConvertSortedArrayToBST.cpp)                         | Easy       | Array, Divide and Conquer, Tree, BST, Binary Tree |
 | 121  | Best Time to Buy and Sell Stock                  | [BestTimeToBuyAndSellStock.cpp](Arrays/121.BestTimeToBuyAndSellStock.cpp)                    | Easy       | Array, Dynamic Programming         |
-| 1394 | Find Lucky Integer in an Array                   | [FindLuckyInteger.cpp](Arrays/1394.FindLuckyInteger.cpp)                                     | Easy       | Array, Hash Table, Counting       |
 | 175  | Combine Two Tables                               | [CombineTwoTables.sql](Database/175.CombineTwoTables.sql)                                    | Easy       | Database                          |
 | 176  | Second Highest Salary                            | [SecondHighestSalary.sql](Database/176.SecondHighestSalary.sql)                              | Easy       | Database                          |
-| 181  | Employees Earning More Than Their Managers       | [EmployeesEarningMoreThanTheirManagers.sql](Database/181.EmployeesEarningMoreThanTheirManagers.sql) | Easy | Database                          |
+| 181  | Employees Earning More Than Their Managers       | [EmployeesEarningMoreThanTheirManagers.sql](Database/181.EmployeesEarningMoreThanTheirManagers.sql) | Easy | Database                  |
 | 182  | Duplicate Emails                                 | [DuplicateEmails.sql](Database/182.DuplicateEmails.sql)                                      | Easy       | Database                          |
 | 183  | Customers Who Never Order                        | [CustomersWhoNeverOrder.sql](Database/183.CustomersWhoNeverOrder.sql)                        | Easy       | Database                          |
 | 196  | Delete Duplicate Emails                          | [DuplicateEmails.sql](Database/196.DuplicateEmails.sql)                                      | Easy       | Database                          |
@@ -65,8 +64,10 @@ _(Auto-updated as I add more problems)_
 | 228  | Summary Ranges                                   | [SummaryRanges.cpp](Arrays/228.SummaryRanges.cpp)                                            | Easy       | Array                             |
 | 268  | Missing Number                                   | [MissingNumber.cpp](Arrays/268.MissingNumber.cpp)                                            | Easy       | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | 283  | Move Zeroes                                      | [MoveZeroes.cpp](Arrays/283.MoveZeroes.cpp)                                                  | Easy       | Array, Two Pointers               |
-| 3442 | Max Difference Between Even and Odd Frequency I  | [MaxDifferenceEvenOddFrequency.cpp](Strings/3442.MaxDifferenceEvenOddFrequency.cpp)          | Easy       | Hash Table, String, Counting      |
+| 511  | Game Play Analysis I                             | [GamePlayAnalysisI.sql](Database/511.GamePlayAnalysisI.sql)                                  | Easy       | Database                          |
 | 577  | Employee Bonus                                   | [EmployeeBonus.sql](Database/577.EmployeeBonus.sql)                                          | Easy       | Database                          |
+| 1394 | Find Lucky Integer in an Array                   | [FindLuckyInteger.cpp](Arrays/1394.FindLuckyInteger.cpp)                                     | Easy       | Array, Hash Table, Counting       |
+| 3442 | Max Difference Between Even and Odd Frequency I  | [MaxDifferenceEvenOddFrequency.cpp](Strings/3442.MaxDifferenceEvenOddFrequency.cpp)          | Easy       | Hash Table, String, Counting      |
 
 ---
 
